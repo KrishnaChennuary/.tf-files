@@ -31,7 +31,7 @@ variable instance_label {
 }
 
 variable instance_shape {
-  description = "VM.Standard.E2.1.Micro"
+  description = "VM.Standard.E2.1.Micro."
 }
 
 variable instance_attributes {
